@@ -1,2 +1,2 @@
-# dog-breeds
-Project for Artificial Intelligence Systems course (BMSTU ICS7)
+# Породы собак
+Проект, выполненный в рамках курса "Системы искусственного интеллекта"
