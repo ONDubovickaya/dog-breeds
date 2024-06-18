@@ -184,6 +184,7 @@ data = [
 ]
 
 #print(myMeasure(data[0], data[0]))
+
 # Размер матрицы смежности
 n = len(data)
 
